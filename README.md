@@ -5,6 +5,12 @@ We construct the dataset using a case-control scenario sampling scheme. To addre
 Download Alzheimers and OASIS via url, i.e. https://www.kaggle.com/datasets/ninadaithal/imagesoasis and https://www.kaggle.com/datasets/marcopinamonti/alzheimer-mri-4-classes-dataset
 ![1743150655570](https://github.com/user-attachments/assets/342caad3-25e6-4d43-b2da-8998f67827ea)
 
+## Requirements
+* Python 3
+* Pytorch >= 1.0
+* Scikit-learn >= 0.2
+* Numpy >=1.1
+
 ## Reference
 [1] Masahiro Kato and Takeshi Teshima and Junya Honda. "Learning from Positive and Unlabeled Data with a Selection Bias." International Conference on Learning Representations. 2019.
 
