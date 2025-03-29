@@ -10,7 +10,7 @@ Download Alzheimers and OASIS via url, i.e. https://www.kaggle.com/datasets/nina
 * Pytorch >= 1.0
 * Scikit-learn >= 0.2
 * Numpy >=1.1
-
+* transformers >=4.49.0
 ## Reference
 [1] Masahiro Kato and Takeshi Teshima and Junya Honda. "Learning from Positive and Unlabeled Data with a Selection Bias." International Conference on Learning Representations. 2019.
 
