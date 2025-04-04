@@ -32,5 +32,5 @@ My implementation has been inspired from the following sources.
 * [Robust](https://github.com/woriazzc/robust-pu) : I have mainly followed the Pytorch Version of this Repo. We understood the probability of curriculum learning through this code.
 * [Grad-CAM](https://github.com/zhanghailan123/SVM_visualization/tree/main) - We accomplished the drawing of the image through this code.
 * [VPU](https://github.com/HC-Feynman/vpu) - I have followed this repository to incorporate loss in my implementation.
-* [random forest](https://github.com/yuchaozhi/image-segmentation)- We completed some comparative experiments by referring to it.
+* [Random forest](https://github.com/yuchaozhi/image-segmentation)- We completed some comparative experiments by referring to it.
   
