@@ -24,9 +24,13 @@ If not pre-trained, set arg.pretrained to None. And then the weight of the train
 
 [3] Zhu Z, Wang L, Zhao P, et al. Robust positive-unlabeled learning via noise negative sample self-correction[C]//Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2023: 3663-3673.
 
+[4] Chen X, Chen W, Chen T, et al. Self-pu: Self boosted and calibrated positive-unlabeled training[C]//International Conference on Machine Learning. PMLR, 2020: 1510-1519.
+
 ## Acknowledgments   
 My implementation has been inspired from the following sources.
 
 * [Robust](https://github.com/woriazzc/robust-pu) : I have mainly followed the Pytorch Version of this Repo. We understood the probability of curriculum learning through this code.
 * [Grad-CAM](https://github.com/zhanghailan123/SVM_visualization/tree/main) - We accomplished the drawing of the image through this code.
 * [VPU](https://github.com/HC-Feynman/vpu) - I have followed this repository to incorporate loss in my implementation.
+* [random forest](https://github.com/yuchaozhi/image-segmentation)
+  
