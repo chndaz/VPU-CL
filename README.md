@@ -16,7 +16,7 @@ inadaithal/imagesoasis and https://www.kaggle.com/datasets/marcopinamonti/alzhei
 * transformers >=4.49.0   
 
 ## Details   
-If not pre-trained, set arg.pretrained to None. And then the weight of the training is given to arg.pretrained.如果没有预先训练，设置参数。预训练为零。然后将训练的权重赋给arg。pretrained。
+If not pre-trained, set arg.pretrained to None. And then the weight of the training is given to arg.pretrained.
 ## Reference   
 [1] Masahiro Kato and Takeshi Teshima and Junya Honda. "Learning from Positive and Unlabeled Data with a Selection Bias." International Conference on Learning Representations. 2019.
 [2] Chen H, Liu F, Wang Y, et al. A variational approach for learning from positive and unlabeled data[J]. Advances in Neural Information Processing Systems, 2020, 33: 14844-14854.
