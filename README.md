@@ -5,7 +5,7 @@ We construct the dataset using a case-control scenario sampling scheme. To addre
 
 ## Preparing Data  
 Download Alzheimers and OASIS via url, i.e. https://www.kaggle.com/datasets/ninadaithal/imagesoasis and https://www.kaggle.com/datasets/marcopinamonti/alzheimer-mri-4-classes-dataset
-inadaithal/imagesoasis and https://www.kaggle.com/datasets/marcopinamonti/alzheimer-mri-4-classes-dataset
+
 
 
 
